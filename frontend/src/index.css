@@ -36,3 +36,13 @@ a:visited {
 a:hover {
     color: rgb(49, 138, 255);
 }
+
+#sales {
+    padding: 40px 10px;
+}
+
+.dsmeta-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
